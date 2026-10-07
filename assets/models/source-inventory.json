@@ -1,0 +1,3377 @@
+[
+  {
+    "path": "Cad all together/CAD Shit/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Main - Motor Clamp Top piece.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Main - Wheel + Rubber Bands.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Main - Wheel Version 2 w_ Hub.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Misc - Rubber Bands.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Sub - Wheel Hub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Sub - Wheel Version 2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Sub - Wheel.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Base.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Main - Motor Clamp Top Piece.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Main - Wheel Version 2 w_ Hub.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Misc - Rubber Bands.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Sub - Motor Clamp Top Piece Insert.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Sub - Motor Clamp Top Piece.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Sub - Wheel Hub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Sub - Wheel Version 2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Wedge.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Base.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Rear_PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit/Sensor_Array_V2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Rear_PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit V2/Sensor_Array_V2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Main - Motor Clamp Top Piece.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Main - Wheel Version 2 w_ Hub.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Misc - Rubber Bands.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Sub - Motor Clamp Top Piece Insert.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Sub - Motor Clamp Top Piece.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Sub - Wheel Gear 1.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Sub - Wheel Hub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Sub - Wheel Version 2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Wedge.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Base.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Axle.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Gear Pins.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Motor Clamp Top Piece.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Rear PCB Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Top Motor Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Wheel With Planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Misc - Rubber Bands.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/PrintPart - Sun and Jit.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/PrintPart - Wheel With planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Sub - Motor Clamp Top Piece Insert.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Sub - Motor Clamp Top Piece.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/ZAssembly - Sun and Jit.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/ZAssembly - Wheel With planetary.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/ZSub - Wheel Main Body.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Zsub - Gear Buffer.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Base.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Rear_PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/CAD Shit V3/Sensor_Array_V2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/MR63ZZ.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Rear_PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V4 - Planetary/Sensor_Array_V2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Axle.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Gear Pins.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Motor Clamp Top Piece.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Rear PCB Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Top Motor Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Wheel With Planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Misc - Rubber Bands.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/PrintPart - Sun and Jit.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/PrintPart - Wheel With planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Sub - Motor Clamp Top Piece Insert.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Sub - Motor Clamp Top Piece.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Sub - Planet Gear Housing 1.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Sub - Planet Gear Housing 2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/ZAssembly - Sun and Jit.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/ZAssembly - Wheel With planetary.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/ZSub - Wheel Main Body.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Zsub - Gear Buffer.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Base.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Axle.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Gear Pins.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Motor Clamp Top Piece.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Rear PCB Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/MR63ZZ.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Planet Gear Assembly.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Rear_PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad Shit V5 - Planetary Additions/Sensor_Array_V2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/MR63ZZ.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Planet Gear Assembly.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-3.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Top Motor Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Wheel With Planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Misc - Rubber Bands.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/PrintPart - Sun and Jit.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/PrintPart - Wheel With planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Sub - Motor Clamp Top Piece Insert.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Sub - Motor Clamp Top Piece.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Sub - Planet Gear Housing 1.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Sub - Planet Gear Housing 2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/ZAssembly - Sun and Jit.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/ZAssembly - Wheel With planetary.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/ZSub - Wheel Main Body.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Zsub - Gear Buffer.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Base.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Axle.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Gear Pins.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Motor Clamp Top Piece.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Rear PCB Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Rear_PCB.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V6 - Body alterations after first prototype/Sensor_Array_4808.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/MR63ZZ.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Planet Gear Assembly.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-4.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Top Motor Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Wheel With Planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Misc - Rubber Bands.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/PrintPart - Sun and Jit.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/PrintPart - Wheel With planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Sub - Motor Clamp Top Piece Insert.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Sub - Motor Clamp Top Piece.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Sub - Planet Gear Housing 1.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Sub - Planet Gear Housing 2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/ZAssembly - Sun and Jit.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/ZAssembly - Wheel With planetary.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/ZSub - Wheel Main Body.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Zsub - Gear Buffer.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Base.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Axle.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Gear Pins.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Motor Clamp Top Piece.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Rear PCB Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Top Motor Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Wheel With Planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Rear_PCB.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V7 - More torque same wheel size/Sensor_Array_4808.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/MR63ZZ.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Planet Gear Assembly.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-5.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Misc - Rubber Bands.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/PrintPart - Sun and Jit.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/PrintPart - Wheel With planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Sub - Motor Clamp Top Piece Insert.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Sub - Motor Clamp Top Piece.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Sub - Planet Gear Housing 1.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Sub - Planet Gear Housing 2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/ZAssembly - Sun and Jit.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/ZAssembly - Wheel With planetary.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/ZSub - 18 Tooth Planet Gear.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/ZSub - 50 Tooth Driver Gear.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/ZSub - Sun Gear - 12 Tooth.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/ZSub - Wheel Main Body.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Zsub - Gear Buffer.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Curved 7 blade.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Curved no shroud.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Fan no shroud mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Full Assembly.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Main - First Gear Stage.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Main - First stage outer support.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Main - MM10 Motor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Main - Motor Mount Top Clamp.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Main - Rear PCB Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Main - Wheel With Gear.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Rear_PCB.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V8 - Skeletonising Gears/Sensor_Array_4808.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/First stage part.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Gear with locked fillet.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Main - Wheel With Gear.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-6.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Rubber Tyre.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Sub - Gear Spacer.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Sub - Wheel.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Base.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Axle.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Fan.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Gear Pins.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Motor Clamp Top Piece.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Rear PCB Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Top Motor Mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Wheel With Planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Misc - Rubber Bands.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/PrintPart - Sun and Jit.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/PrintPart - Wheel With planetary.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Rear_PCB.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit V9 - Full Redesign/Sensor_Array_4808.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/MR63ZZ.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Planet Gear Assembly.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-7.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Sub - Motor Clamp Top Piece Insert.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Sub - Motor Clamp Top Piece.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Sub - Planet Gear Housing 1.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Sub - Planet Gear Housing 2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/ZAssembly - Sun and Jit.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/ZAssembly - Wheel With planetary.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/ZSub - Wheel Main Body.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Zsub - Gear Buffer.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/FAN_IN_HOUSING.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan Motor Clamp.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan in Chassis.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Fan Assembley.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Fan_curved_bladesV13.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Fan_straight_#12_V13.3.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Fan_straight_#6_V13.1.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Fan_straight_#6_bigger_intakeV13.4.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Fan_straight_#6_smaller_intakeV13.5.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Fan_straight_#8_V13.2.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Motor Clamp.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Motor_mountV13.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Seb_fan_ass.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Seb_skirt.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Sebs_FanV3.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Test Chassis.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan no shroud stuff/Test base for flow simulation.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Fan.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Curved 7 blade.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Curved no shroud.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Fan no shroud mount.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Fan with shroud and exhaust.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Straight 6.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Test Base.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Sebs_FanV3.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/VeryVERY rough mm10.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Fan Shit/fan_test_housing.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "included"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Rear_PCB.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Sensor_Array_4808.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Chasis - Fan.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/Chassis_redeisgn for fanV3.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Assem1.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Assem2.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Assem3.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Curved 7 blade-ENMT2010.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Curved 7 blade_D47mm.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/D47_H20.5_Straight6.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/D47_H21.5_Straight6.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Fan with shroud and exhaust.STL",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Floor.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/Fan Shit/New Fan Jit/Test Base-ENMT2010.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/casting/Main - Wheel With Gear.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/casting/Mould.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/casting/Sub - Wheel.SLDPRT",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Cad all together/casting/assembly.SLDASM",
+    "archive": "assets/models/lfr-cad-all-together-8.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Testing Planetary shit/Base.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main - Axle.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main - Battery Holder Full.SLDASM",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main - Chassis.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main - Control Board.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main - Front Sensor Array.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main - Gear Pins.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main - Motor Clamp Top Piece.SLDASM",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main - Nub.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main - Wheel With Planetary.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Main Multicomp MM28 Motor.SLDASM",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Sub - Battery holder half.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Sub - Motor Clamp Top Piece Insert.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Sub - Motor Clamp Top Piece.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Sub - Multicomp MM28 Rotor.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Sub - Multicomp MM28 Stator.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/ZAssembly - Sun and Jit.SLDASM",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/ZAssembly - Wheel With planetary.SLDASM",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/ZSub - Wheel Main Body.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Zsub - Gear Buffer.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Testing Planetary shit/Line Following Robot.SLDASM",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Testing Planetary shit/Main - SENSOR PCB.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Testing Planetary shit/Rear_PCB.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Testing Planetary shit/Sensor_Array_V2.SLDPRT",
+    "archive": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Auto Pot Tuner/Duino_Breadboard.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Auto Pot Tuner/MG996R Servo Motor/Output Shaft.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Auto Pot Tuner/MG996R Servo Motor/Pan Head Cross Screw M3.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Auto Pot Tuner/MG996R Servo Motor/Rubber Wire Cable Sleeve.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Auto Pot Tuner/MG996R Servo Motor/Servo Horns.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Auto Pot Tuner/Phillips Head.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Auto Pot Tuner/Pot Head.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Auto Pot Tuner/Pot_Tuner_Case_1.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Auto Pot Tuner/Pot_Tuner_Lid.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "Auto Pot Tuner/MG996R Servo Motor/Case.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Auto Pot Tuner/MG996R Servo Motor/MG996R Servo Motor.SLDASM",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Auto Pot Tuner/MG996R Servo Motor/MG996R Servo Motor.x_t",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Auto Pot Tuner/MG996R Servo Motor/Pan Head Cross Screw M1.6.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Auto Pot Tuner/PWM_Driver.SLDPRT",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "Auto Pot Tuner/Pot_Tuner_Assemb.SLDASM",
+    "archive": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Gears and PCB Mount.3mf",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "3D Printing Shit/Straight 6_D45mm.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "3D Printing Shit/Wheels.3mf",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "3D Printing Shit/ZAssembly - Sun and Jit.SLDPRT",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "3D Printing Shit/ZAssembly - Wheel With planetary.SLDPRT",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "3D Printing Shit/10 Tooth Motor Gear.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Chassis And Gears minus Sun enclosure and wheels.3mf",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Curved 7 blade.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/D47_H19.5_Base1.5_Straight6.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/D47_H20.5_Straight6.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/D47_H21.5_Straight6.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan Clamp V18.2.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan Clamp V18.3.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan Housing.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan Motor Clamp.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan V12.3.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan V12.4.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan no shroud mount.2.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan no shroud mount.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan with FILLET.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan with shroud and exhaust.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan_charlieV13.6.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan_curved_bladesV13.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan_straight_#12_V13.3.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan_straight_#6_V13.1.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan_straight_#6_bigger_intakeV13.4.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan_straight_#6_smaller_intakeV13.5.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Fan_straight_#8_V13.2.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Main - Chassis.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Main - Chassis2.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Main - Nub.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Main - Rear PCB Mount.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Main - Top Motor Mount.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Motor_mountV13.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Seb Fan V8.1.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Seb Print This Shit.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Seb_skirt.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Sebs_FanV3.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Straight 6.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Sub - Planet Gear Housing 1.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Sub - Planet Gear Housing 2.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Test Base.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Test Chassis.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Test Fan Clamp.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Test Fan.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/Wheel_and_gear.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/ZAssembly - Sun and Jit.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/ZAssembly - Wheel With planetary.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/ZSub - 18 Tooth Planet Gear.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "3D Printing Shit/gearjit.STL",
+    "archive": "assets/models/lfr-3d-printing-shit-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "PCB all together/HBridgeV3/HBridgeV3.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB CAD Model Shit/Rear_PCB.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB CAD Model Shit/Sensor_Array_4808.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/Diode.pretty/DIOAD520W79L463D238.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/HBridge.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/HBridge.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/HBridge.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/IRLD014PBF/HVMDIP-4_IRF.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/IRLD014PBF/KiCADv6/2025-08-26_04-08-20.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/IRLD014PBF/KiCADv6/footprints.pretty/HVMDIP-4_IRF.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/3D/BSR802NL6327HTSA1.stp",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/BSR802NL6327HTSA1.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/SOT95P285X135-3N.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/NMOS/TRANS_BC846B_215.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/PMOS/SI2333DDS-T1-GE3.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/PMOS/SI2333DDS-T1-GE3.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/PMOS/SOT95P237X112-3N.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/Schottky/DO-41_DIO.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridge/Schottky/SB130-T.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/Diode.pretty/DIOAD520W79L463D238.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/HBridgeV2.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/HBridgeV2.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/HBridgeV2.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/IRLD014PBF/HVMDIP-4_IRF.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/IRLD014PBF/KiCADv6/2025-08-26_04-08-20.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/IRLD014PBF/KiCADv6/footprints.pretty/HVMDIP-4_IRF.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/3D/BSR802NL6327HTSA1.stp",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/BSR802NL6327HTSA1.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/SOT95P285X135-3N.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/NMOS/TRANS_BC846B_215.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/PMOS/SI2333DDS-T1-GE3.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/PMOS/SI2333DDS-T1-GE3.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/PMOS/SOT95P237X112-3N.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/Schottky/DO-41_DIO.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/HBridgeV2/Schottky/SB130-T.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/PARTS/1N4004/1N4004.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/PARTS/1N4004/1N4004.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/PARTS/1N4004/DIOAD520W79L463D238.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/PARTS/KiCADv6/2025-08-26_03-55-49.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/PARTS/KiCADv6/Jawndices/HVMDIP-4_IRF.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/Diode.pretty/DIOAD520W79L463D238.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/IRLD014PBF/HVMDIP-4_IRF.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/IRLD014PBF/KiCADv6/2025-08-26_04-08-20.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/IRLD014PBF/KiCADv6/footprints.pretty/HVMDIP-4_IRF.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/3D/BSR802NL6327HTSA1.stp",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/BSR802NL6327HTSA1.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/SOT95P285X135-3N.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/NMOS/TRANS_BC846B_215.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/Rear_PCB.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/Rear_PCB.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/Rear_PCB.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/Schottky/DO-41_DIO.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Rear_PCB/Schottky/SB130-T.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/LIB_MJTP1230/MJTP1230/3D/MJTP1230.stp",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/3D/N6L50T0C-103-3030.stp",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C-103-3030.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C1033030.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/MCP6271_E_P/DIP787W46P254L927H533Q8.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/MCP6271_E_P/MCP6271-E_P.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/MCP6271_E_P/MCP6271-E_P.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/Sensor_Array.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/Sensor_Array.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/Sensor_Array.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/TCRT5000/OPTO_TCRT5000.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/TCRT5000/TCRT5000.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array/TCRT5000/TCRT5000.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/ATMEGA4808_AFR/KiCADv6/2025-08-27_03-22-06.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-L.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-M.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/ATMEGA4808_AFR/TQFP32_PT_MCH.stl",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/LIB_MJTP1230/MJTP1230/3D/MJTP1230.stp",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/3D/N6L50T0C-103-3030.stp",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C-103-3030.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C1033030.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/MCP1700_3302E_TO/MCP1700-3302E_TO.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/MCP1700_3302E_TO/MCP1700-3302E_TO.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/MCP1700_3302E_TO/TO127P254X495-3.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/MTJP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/N6-L50T0C-103/N6-L50T0C-103.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/N6-L50T0C-103/N6-L50T0C-103.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/N6-L50T0C-103/TRIM_N6-L50T0C-103.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/Sensor_Array_328_M3.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/Sensor_Array_328_M3.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/Sensor_Array_328_M3.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/TCRT5000/OPTO_TCRT5000.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/TCRT5000/TCRT5000.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_328 _M3/TCRT5000/TCRT5000.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/ATMEGA4808_AFR/KiCADv6/2025-08-27_03-22-06.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-L.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-M.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/LIB_MJTP1230/MJTP1230/3D/MJTP1230.stp",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/3D/N6L50T0C-103-3030.stp",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C-103-3030.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C1033030.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/MCP1700_3302E_TO/MCP1700-3302E_TO.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/MCP1700_3302E_TO/MCP1700-3302E_TO.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/MCP1700_3302E_TO/TO127P254X495-3.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/N6-L50T0C-103/TRIM_N6-L50T0C-103.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_4808.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_4808.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/ATMEGA4808_AFR/KiCADv6/2025-08-27_03-22-06.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-L.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-M.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C-103-3030.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C1033030.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/MCP1700_3302E_TO/MCP1700-3302E_TO.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/MCP1700_3302E_TO/TO127P254X495-3.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/Sensor_Array_4808.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/Sensor_Array_4808.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/Sensor_Array_V2.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/Sensor_Array_V2.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/Sensor_Array_V2PCB.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/Sensor_Array_V2PCB.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/TCRT5000/OPTO_TCRT5000.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133021/TCRT5000/TCRT5000.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/ATMEGA4808_AFR/KiCADv6/2025-08-27_03-22-06.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-L.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-M.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C-103-3030.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C1033030.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/MCP1700_3302E_TO/MCP1700-3302E_TO.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/MCP1700_3302E_TO/TO127P254X495-3.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/Sensor_Array_4808.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/Sensor_Array_4808.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/Sensor_Array_V2.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/Sensor_Array_V2.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/Sensor_Array_V2PCB.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/Sensor_Array_V2PCB.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/TCRT5000/OPTO_TCRT5000.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2-backups/Sensor_Array_V2-2025-09-03_133833/TCRT5000/TCRT5000.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2.step",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/ATMEGA4808-AFR--3DModel-STEP-269445.STEP",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/ATMEGA4808_AFR/TQFP32_PT_MCH.stl",
+    "archive": "assets/models/lfr-pcb-all-together-1.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2.stl",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2PCB.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2PCB.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/TCRT5000/OPTO_TCRT5000.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/TCRT5000/TCRT5000.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Shit/Sensor_Array_V2/TCRT5000/TCRT5000.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/Diode.pretty/DIOAD520W79L463D238.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/HBridgeV3-Alex\u2019s MacBook Air.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/HBridgeV3.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/HBridgeV3.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/HBridgeV3.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/IRLD014PBF/HVMDIP-4_IRF.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/IRLD014PBF/KiCADv6/2025-08-26_04-08-20.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/IRLD014PBF/KiCADv6/footprints.pretty/HVMDIP-4_IRF.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/3D/BSR802NL6327HTSA1.stp",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/BSR802NL6327HTSA1.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/SOT95P285X135-3N.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/NMOS/TRANS_BC846B_215.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/PMOS/SI2333DDS-T1-GE3.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/PMOS/SI2333DDS-T1-GE3.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/PMOS/SOT95P237X112-3N.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/Schottky/DO-41_DIO.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/HBridgeV3/Schottky/SB130-T.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/ATMEGA4808_AFR/KiCADv6/2025-08-27_03-22-06.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-L.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-M.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/ATMEGA4808_AFR/TQFP32_PT_MCH.stl",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/3D/BSR802NL6327HTSA1.stp",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/BSR802NL6327HTSA1.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/SOT95P285X135-3N.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/LIB_MJTP1230/MJTP1230/3D/MJTP1230.stp",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/3D/N6L50T0C-103-3030.stp",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C-103-3030.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C1033030.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/MCP1700_3302E_TO/MCP1700-3302E_TO.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/MCP1700_3302E_TO/MCP1700-3302E_TO.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/MCP1700_3302E_TO/TO127P254X495-3.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/MTJP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/N6-L50T0C-103/N6-L50T0C-103.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/N6-L50T0C-103/N6-L50T0C-103.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/N6-L50T0C-103/TRIM_N6-L50T0C-103.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/Schottky/DO-41_DIO.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/Schottky/SB130-T.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/Sensor_Array_328.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/Sensor_Array_328.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/TCRT5000/OPTO_TCRT5000.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/TCRT5000/TCRT5000.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/TCRT5000/TCRT5000.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/ATMEGA4808_AFR/KiCADv6/2025-08-27_03-22-06.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-L.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH-M.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/ATMEGA4808_AFR/KiCADv6/footprints.pretty/TQFP32_PT_MCH.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/3D/BSR802NL6327HTSA1.stp",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/BSR802NL6327HTSA1.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/LIB_BSR802NL6327HTSA1/BSR802NL6327HTSA1/KiCad/SOT95P285X135-3N.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/LIB_MJTP1230/MJTP1230/KiCad/MJTP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/3D/N6L50T0C-103-3030.stp",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C-103-3030.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/LIB_N6L50T0C-103-3030/N6L50T0C-103-3030/KiCad/N6L50T0C1033030.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/MCP1700_3302E_TO/MCP1700-3302E_TO.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/MCP1700_3302E_TO/MCP1700-3302E_TO.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/MCP1700_3302E_TO/TO127P254X495-3.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/MTJP1230.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/N6-L50T0C-103/N6-L50T0C-103.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/N6-L50T0C-103/N6-L50T0C-103.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/N6-L50T0C-103/TRIM_N6-L50T0C-103.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/NMOS/TRANS_BC846B_215.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/Schottky/DO-41_DIO.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/Schottky/SB130-T.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/Sensor_Array_4808.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/Sensor_Array_4808.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/Sensor_Array_4808.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/TCRT5000/OPTO_TCRT5000.kicad_mod",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/TCRT5000/TCRT5000.kicad_sym",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/TCRT5000/TCRT5000.step",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/Simulation Shit/hbridge/hbridge.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/Simulation Shit/hbridge/hbridge.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/Simulation Shit/hbridge/hbridge.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/Simulation Shit/hbridgeLevelShift/hbridge.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/Simulation Shit/hbridgeLevelShift/hbridge.kicad_pro",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/Simulation Shit/hbridgeLevelShift/hbridge.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "included"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/Sensor_Array_328-ENMT2309.kicad_sch",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_328/Sensor_Array_328.kicad_pcb",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "PCB all together/PCB Submission Shit/Sensor_Array_4808/ATMEGA4808_AFR/TQFP32_PT_MCH.stl",
+    "archive": "assets/models/lfr-pcb-all-together-2.zip",
+    "status": "awaiting OneDrive download"
+  },
+  {
+    "path": "line-follower-atmega4808-sensor-array-isometric.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-atmega4808-sensor-array-top.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-atmega4808-sensor-array-bottom.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-h-bridge-v3-isometric.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-h-bridge-v3-top.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-h-bridge-v3-bottom.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-rear-power-board-isometric.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-rear-power-board-top.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-rear-power-board-bottom.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-h-bridge-v2-isometric.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-h-bridge-v2-top.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-h-bridge-v2-bottom.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-h-bridge-v1-isometric.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-h-bridge-v1-top.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-h-bridge-v1-bottom.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-sensor-array-m3-isometric.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-sensor-array-m3-top.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-sensor-array-m3-bottom.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-sensor-array-v2-isometric.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-sensor-array-v2-top.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  },
+  {
+    "path": "line-follower-sensor-array-v2-bottom.png",
+    "archive": "assets/models/line-follower-pcb-renders.zip",
+    "status": "included"
+  }
+]

@@ -70,3 +70,33 @@ for name, page in pages.items():
 if errors:
     raise SystemExit('\n'.join(errors))
 print(f'Validated {len(pages)} pages: links, fragments, images, metadata and headings.')
+
+# Dynamic design-library references must be checked as well as HTML links.
+import json
+import struct
+import zipfile
+for catalog_name in ('catalog.json', 'downloads.json'):
+    entries = json.loads((ROOT / 'assets/models' / catalog_name).read_text())
+    for entry in entries:
+        references = [entry[key] for key in ('src', 'step', 'native', 'poster', 'url') if key in entry] + entry.get('renders', [])
+        for reference in references:
+            target = ROOT / reference
+            if not target.is_file() or target.stat().st_size == 0:
+                raise SystemExit(f'Missing or empty CAD asset: {reference}')
+            if target.suffix == '.glb':
+                with target.open('rb') as stream:
+                    magic, version, length = struct.unpack('<4sII', stream.read(12))
+                if magic != b'glTF' or version != 2 or length != target.stat().st_size:
+                    raise SystemExit(f'Invalid GLB container: {reference}')
+            if target.suffix == '.png' and not target.with_suffix('.webp').is_file():
+                raise SystemExit(f'Missing optimized render: {reference}')
+for target in (ROOT / 'assets').rglob('*'):
+    if target.is_file() and target.stat().st_size >= 100_000_000:
+        raise SystemExit(f'Asset exceeds GitHub per-file limit: {target}')
+for target in (ROOT / 'assets/models').glob('*.zip'):
+    with zipfile.ZipFile(target) as archive:
+        if archive.testzip():
+            raise SystemExit(f'Damaged archive: {target}')
+        if any(info.file_size == 0 and not info.is_dir() for info in archive.infolist()):
+            raise SystemExit(f'Empty file in archive: {target}')
+print('Validated dynamic CAD references, GLB containers, render variants and source archives.')

@@ -26,7 +26,7 @@ if (menuButton && navigation) {
 
 const views = {
   mechanical: { image: 'line-follower.webp', alt: 'CAD render of the Group 13 line-following robot showing chassis, motors and front sensor board', top: 'CUSTOM MECHANICAL DESIGN', bottom: 'BARE-METAL CONTROL · ≈500 Hz', caption: 'Autonomous line follower / Group 13' },
-  electronics: { image: 'sensor-pcb.webp', alt: 'Group 13 custom sensor PCB layout with ATmega4808 microcontroller and infrared sensor connections', top: 'CUSTOM SENSOR PCB', bottom: 'ATMEGA4808 · TCRT5000 ARRAY', caption: 'Sensor electronics / Actual KiCad layout' },
+  electronics: { image: 'sensor-pcb.webp', alt: 'Group 13 custom sensor PCB layout with ATmega4808 microcontroller and infrared sensor connections', top: 'ACTUAL PCB / DRAG TO ORBIT', bottom: 'ATMEGA4808 · TCRT5000 ARRAY', caption: 'Sensor electronics / Interactive 3D assembly' },
   control: { image: 'pid-tuner.webp', alt: 'Python desktop application for wireless Bayesian optimisation of robot PID gains', top: 'WIRELESS PID OPTIMISATION', bottom: 'PYTHON ↔ ESP32 ↔ EMBEDDED C', caption: 'Bayesian PID tuner / Project application' }
 };
 document.querySelectorAll('[data-view]').forEach(button => {
@@ -34,6 +34,8 @@ document.querySelectorAll('[data-view]').forEach(button => {
     const view = views[button.dataset.view];
     document.querySelectorAll('[data-view]').forEach(item => item.setAttribute('aria-pressed', String(item === button)));
     const image = document.querySelector('#hero-image');
+    const model = document.querySelector('#hero-model');
+    if(model){model.hidden=button.dataset.view!=='electronics';image.hidden=!model.hidden;if(!model.hidden&&!model.hasAttribute('src'))model.src='assets/models/line-follower-atmega4808-sensor-array.glb';}
     image.src = `assets/${view.image}`;
     image.alt = view.alt;
     image.closest('.art-stage').dataset.view = button.dataset.view;

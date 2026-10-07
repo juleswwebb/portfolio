@@ -1,0 +1,346 @@
+[
+  {
+    "id": "robodev-signals",
+    "name": "RoboDev Signals",
+    "src": "assets/models/robodev-signals.glb",
+    "step": "assets/models/robodev-signals.step",
+    "native": "assets/models/robodev-signals.kicad_pcb",
+    "poster": "assets/renders/robodev-signals-isometric.webp",
+    "renders": [
+      "assets/renders/robodev-signals-isometric.png",
+      "assets/renders/robodev-signals-top.png",
+      "assets/renders/robodev-signals-bottom.png"
+    ],
+    "category": "RoboDev boards",
+    "description": "Actual current KiCad board. Includes components with available 3D references."
+  },
+  {
+    "id": "robodev-actuators",
+    "name": "RoboDev Actuators",
+    "src": "assets/models/robodev-actuators.glb",
+    "step": "assets/models/robodev-actuators.step",
+    "native": "assets/models/robodev-actuators.kicad_pcb",
+    "poster": "assets/renders/robodev-actuators-isometric.webp",
+    "renders": [
+      "assets/renders/robodev-actuators-isometric.png",
+      "assets/renders/robodev-actuators-top.png",
+      "assets/renders/robodev-actuators-bottom.png"
+    ],
+    "category": "RoboDev boards",
+    "description": "Actual current KiCad board. Includes components with available 3D references."
+  },
+  {
+    "id": "robodev-power",
+    "name": "RoboDev Power",
+    "src": "assets/models/robodev-power.glb",
+    "step": "assets/models/robodev-power.step",
+    "native": "assets/models/robodev-power.kicad_pcb",
+    "poster": "assets/renders/robodev-power-isometric.webp",
+    "renders": [
+      "assets/renders/robodev-power-isometric.png",
+      "assets/renders/robodev-power-top.png",
+      "assets/renders/robodev-power-bottom.png"
+    ],
+    "category": "RoboDev boards",
+    "description": "Actual current KiCad board. Includes components with available 3D references."
+  },
+  {
+    "id": "line-follower-atmega4808-sensor-array",
+    "name": "ATmega4808 sensor array",
+    "src": "assets/models/line-follower-atmega4808-sensor-array.glb",
+    "step": "assets/models/line-follower-atmega4808-sensor-array.step",
+    "native": "assets/models/line-follower-atmega4808-sensor-array.kicad_pcb",
+    "poster": "assets/renders/line-follower-atmega4808-sensor-array-isometric.webp",
+    "renders": [
+      "assets/renders/line-follower-atmega4808-sensor-array-isometric.png",
+      "assets/renders/line-follower-atmega4808-sensor-array-top.png",
+      "assets/renders/line-follower-atmega4808-sensor-array-bottom.png"
+    ],
+    "category": "Line follower boards",
+    "description": "Actual team PCB design. Available component models, copper, silkscreen and soldermask are included. ",
+    "source": "PCB all together/PCB Submission Shit/Sensor_Array_4808/Sensor_Array_4808.kicad_pcb"
+  },
+  {
+    "id": "line-follower-h-bridge-v3",
+    "name": "H-bridge V3",
+    "src": "assets/models/line-follower-h-bridge-v3.glb",
+    "step": "assets/models/line-follower-h-bridge-v3.step",
+    "native": "assets/models/line-follower-h-bridge-v3.kicad_pcb",
+    "poster": "assets/renders/line-follower-h-bridge-v3-isometric.webp",
+    "renders": [
+      "assets/renders/line-follower-h-bridge-v3-isometric.png",
+      "assets/renders/line-follower-h-bridge-v3-top.png",
+      "assets/renders/line-follower-h-bridge-v3-bottom.png"
+    ],
+    "category": "Line follower boards",
+    "description": "Actual team PCB design. Available component models, copper, silkscreen and soldermask are included. ",
+    "source": "PCB all together/PCB Submission Shit/HBridgeV3/HBridgeV3.kicad_pcb"
+  },
+  {
+    "id": "line-follower-rear-power-board",
+    "name": "Rear power board",
+    "src": "assets/models/line-follower-rear-power-board.glb",
+    "step": "assets/models/line-follower-rear-power-board.step",
+    "native": "assets/models/line-follower-rear-power-board.kicad_pcb",
+    "poster": "assets/renders/line-follower-rear-power-board-isometric.webp",
+    "renders": [
+      "assets/renders/line-follower-rear-power-board-isometric.png",
+      "assets/renders/line-follower-rear-power-board-top.png",
+      "assets/renders/line-follower-rear-power-board-bottom.png"
+    ],
+    "category": "Line follower boards",
+    "description": "Actual team PCB design. Available component models, copper, silkscreen and soldermask are included. ",
+    "source": "PCB all together/PCB Shit/Rear_PCB/Rear_PCB.kicad_pcb"
+  },
+  {
+    "id": "line-follower-h-bridge-v2",
+    "name": "H-bridge V2",
+    "src": "assets/models/line-follower-h-bridge-v2.glb",
+    "step": "assets/models/line-follower-h-bridge-v2.step",
+    "native": "assets/models/line-follower-h-bridge-v2.kicad_pcb",
+    "poster": "assets/renders/line-follower-h-bridge-v2-isometric.webp",
+    "renders": [
+      "assets/renders/line-follower-h-bridge-v2-isometric.png",
+      "assets/renders/line-follower-h-bridge-v2-top.png",
+      "assets/renders/line-follower-h-bridge-v2-bottom.png"
+    ],
+    "category": "Line follower boards",
+    "description": "Actual team PCB design. Available component models, copper, silkscreen and soldermask are included. ",
+    "source": "PCB all together/PCB Shit/HBridgeV2/HBridgeV2.kicad_pcb"
+  },
+  {
+    "id": "line-follower-h-bridge-v1",
+    "name": "H-bridge V1",
+    "src": "assets/models/line-follower-h-bridge-v1.glb",
+    "step": "assets/models/line-follower-h-bridge-v1.step",
+    "native": "assets/models/line-follower-h-bridge-v1.kicad_pcb",
+    "poster": "assets/renders/line-follower-h-bridge-v1-isometric.webp",
+    "renders": [
+      "assets/renders/line-follower-h-bridge-v1-isometric.png",
+      "assets/renders/line-follower-h-bridge-v1-top.png",
+      "assets/renders/line-follower-h-bridge-v1-bottom.png"
+    ],
+    "category": "Line follower boards",
+    "description": "Actual team PCB design. Available component models, copper, silkscreen and soldermask are included. ",
+    "source": "PCB all together/PCB Shit/HBridge/HBridge.kicad_pcb"
+  },
+  {
+    "id": "line-follower-sensor-array-m3",
+    "name": "Sensor array M3",
+    "src": "assets/models/line-follower-sensor-array-m3.glb",
+    "step": "assets/models/line-follower-sensor-array-m3.step",
+    "native": "assets/models/line-follower-sensor-array-m3.kicad_pcb",
+    "poster": "assets/renders/line-follower-sensor-array-m3-isometric.webp",
+    "renders": [
+      "assets/renders/line-follower-sensor-array-m3-isometric.png",
+      "assets/renders/line-follower-sensor-array-m3-top.png",
+      "assets/renders/line-follower-sensor-array-m3-bottom.png"
+    ],
+    "category": "Line follower boards",
+    "description": "Actual team PCB design. Available component models, copper, silkscreen and soldermask are included. ",
+    "source": "PCB all together/PCB Shit/Sensor_Array_328 _M3/Sensor_Array_328_M3.kicad_pcb"
+  },
+  {
+    "id": "line-follower-sensor-array-v2",
+    "name": "Sensor array V2",
+    "src": "assets/models/line-follower-sensor-array-v2.glb",
+    "step": "assets/models/line-follower-sensor-array-v2.step",
+    "native": "assets/models/line-follower-sensor-array-v2.kicad_pcb",
+    "poster": "assets/renders/line-follower-sensor-array-v2-isometric.webp",
+    "renders": [
+      "assets/renders/line-follower-sensor-array-v2-isometric.png",
+      "assets/renders/line-follower-sensor-array-v2-top.png",
+      "assets/renders/line-follower-sensor-array-v2-bottom.png"
+    ],
+    "category": "Line follower boards",
+    "description": "Actual team PCB design. Available component models, copper, silkscreen and soldermask are included. ",
+    "source": "PCB all together/PCB Shit/Sensor_Array_V2/Sensor_Array_V2PCB.kicad_pcb"
+  },
+  {
+    "id": "lfr-gears-and-pcb-mount",
+    "name": "Gears and PCB Mount",
+    "src": "assets/models/lfr-gears-and-pcb-mount.glb",
+    "native": "assets/models/lfr-gears-and-pcb-mount.3mf",
+    "category": "Line follower mechanics",
+    "description": "Exact team print/CAD mesh. 3MF print layout, including the original object placements; not a complete assembled robot.",
+    "source": "3D Printing Shit/Gears and PCB Mount.3mf"
+  },
+  {
+    "id": "lfr-straight-6-d45mm",
+    "name": "Straight 6_D45mm",
+    "src": "assets/models/lfr-straight-6-d45mm.glb",
+    "native": "assets/models/lfr-straight-6-d45mm.stl",
+    "category": "Line follower mechanics",
+    "description": "Exact team print/CAD mesh. Individual component or subassembly; retained from the design iteration library.",
+    "source": "3D Printing Shit/Straight 6_D45mm.STL"
+  },
+  {
+    "id": "lfr-wheels",
+    "name": "Wheels",
+    "src": "assets/models/lfr-wheels.glb",
+    "native": "assets/models/lfr-wheels.3mf",
+    "category": "Line follower mechanics",
+    "description": "Exact team print/CAD mesh. 3MF print layout, including the original object placements; not a complete assembled robot.",
+    "source": "3D Printing Shit/Wheels.3mf"
+  },
+  {
+    "id": "component-74hc595",
+    "name": "74HC595",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-74hc595.glb",
+    "step": "assets/models/component-74hc595.step"
+  },
+  {
+    "id": "component-768290012",
+    "name": "768290012",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-768290012.glb",
+    "step": "assets/models/component-768290012.step"
+  },
+  {
+    "id": "component-ads1115idgst",
+    "name": "ADS1115IDGST",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-ads1115idgst.glb",
+    "step": "assets/models/component-ads1115idgst.step"
+  },
+  {
+    "id": "component-bmi270",
+    "name": "BMI270",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-bmi270.glb",
+    "step": "assets/models/component-bmi270.step"
+  },
+  {
+    "id": "component-drv8874",
+    "name": "DRV8874",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-drv8874.glb",
+    "step": "assets/models/component-drv8874.step"
+  },
+  {
+    "id": "component-esp32-c3-mini-1-n4",
+    "name": "ESP32-C3-MINI-1-N4",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-esp32-c3-mini-1-n4.glb",
+    "step": "assets/models/component-esp32-c3-mini-1-n4.step"
+  },
+  {
+    "id": "component-mbr2045ct",
+    "name": "MBR2045CT",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-mbr2045ct.glb",
+    "step": "assets/models/component-mbr2045ct.step"
+  },
+  {
+    "id": "component-mjtp1230",
+    "name": "MJTP1230",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-mjtp1230.glb",
+    "step": "assets/models/component-mjtp1230.stp"
+  },
+  {
+    "id": "component-os102011ms2qn1",
+    "name": "OS102011MS2QN1",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-os102011ms2qn1.glb",
+    "step": "assets/models/component-os102011ms2qn1.step"
+  },
+  {
+    "id": "component-pca9685pw",
+    "name": "PCA9685PW",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-pca9685pw.glb",
+    "step": "assets/models/component-pca9685pw.step"
+  },
+  {
+    "id": "component-pcf8574dw",
+    "name": "PCF8574DW",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-pcf8574dw.glb",
+    "step": "assets/models/component-pcf8574dw.step"
+  },
+  {
+    "id": "component-qwiic",
+    "name": "QWIIC",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-qwiic.glb",
+    "step": "assets/models/component-qwiic.step"
+  },
+  {
+    "id": "component-sn65hvd230d",
+    "name": "SN65HVD230D",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-sn65hvd230d.glb",
+    "step": "assets/models/component-sn65hvd230d.step"
+  },
+  {
+    "id": "component-tca9548a",
+    "name": "TCA9548A",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-tca9548a.glb",
+    "step": "assets/models/component-tca9548a.step"
+  },
+  {
+    "id": "component-tmc-2209-la-t",
+    "name": "TMC-2209-LA-T",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-tmc-2209-la-t.glb",
+    "step": "assets/models/component-tmc-2209-la-t.step"
+  },
+  {
+    "id": "component-usb4085gfa",
+    "name": "USB4085GFA",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-usb4085gfa.glb",
+    "step": "assets/models/component-usb4085gfa.step"
+  },
+  {
+    "id": "component-xl4016",
+    "name": "XL4016",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-xl4016.glb",
+    "step": "assets/models/component-xl4016.step"
+  },
+  {
+    "id": "component-xt60pw-m",
+    "name": "XT60PW-M",
+    "category": "RoboDev component references",
+    "description": "Exact STEP reference from the RoboDev component library. Supplier/package geometry; separate from the custom board design.",
+    "src": "assets/models/component-xt60pw-m.glb",
+    "step": "assets/models/component-xt60pw-m.step"
+  },
+  {
+    "id": "lfr-sensor-array-exported-cad",
+    "name": "Sensor array exported CAD",
+    "category": "Line follower boards",
+    "description": "Exact supplied STEP assembly. Neutral geometry shown with a uniform material; use the board model for PCB surface detail.",
+    "src": "assets/models/lfr-sensor-array-exported-cad.glb",
+    "step": "assets/models/lfr-sensor-array-exported-cad.step"
+  },
+  {
+    "id": "lfr-rear-power-exported-cad",
+    "name": "Rear power exported CAD",
+    "category": "Line follower boards",
+    "description": "Exact supplied STEP assembly. Neutral geometry shown with a uniform material; use the board model for PCB surface detail.",
+    "src": "assets/models/lfr-rear-power-exported-cad.glb",
+    "step": "assets/models/lfr-rear-power-exported-cad.step"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Mechanical CAD sources / 1",
+    "url": "assets/models/lfr-cad-all-together-1.zip",
+    "files": 35,
+    "bytes": 7703971,
+    "pending": 8
+  },
+  {
+    "name": "Mechanical CAD sources / 2",
+    "url": "assets/models/lfr-cad-all-together-2.zip",
+    "files": 43,
+    "bytes": 10120553,
+    "pending": 11
+  },
+  {
+    "name": "Mechanical CAD sources / 3",
+    "url": "assets/models/lfr-cad-all-together-3.zip",
+    "files": 35,
+    "bytes": 7775593,
+    "pending": 9
+  },
+  {
+    "name": "Mechanical CAD sources / 4",
+    "url": "assets/models/lfr-cad-all-together-4.zip",
+    "files": 26,
+    "bytes": 5750334,
+    "pending": 8
+  },
+  {
+    "name": "Mechanical CAD sources / 5",
+    "url": "assets/models/lfr-cad-all-together-5.zip",
+    "files": 28,
+    "bytes": 6251039,
+    "pending": 7
+  },
+  {
+    "name": "Mechanical CAD sources / 6",
+    "url": "assets/models/lfr-cad-all-together-6.zip",
+    "files": 29,
+    "bytes": 25989206,
+    "pending": 5
+  },
+  {
+    "name": "Mechanical CAD sources / 7",
+    "url": "assets/models/lfr-cad-all-together-7.zip",
+    "files": 20,
+    "bytes": 3986034,
+    "pending": 7
+  },
+  {
+    "name": "Mechanical CAD sources / 8",
+    "url": "assets/models/lfr-cad-all-together-8.zip",
+    "files": 38,
+    "bytes": 10415504,
+    "pending": 18
+  },
+  {
+    "name": "Planetary gearbox sources / 1",
+    "url": "assets/models/lfr-testing-planetary-shit-1.zip",
+    "files": 20,
+    "bytes": 4315108,
+    "pending": 4
+  },
+  {
+    "name": "Auto Pot Tuner / 1",
+    "url": "assets/models/lfr-auto-pot-tuner-1.zip",
+    "files": 9,
+    "bytes": 3026698,
+    "pending": 6
+  },
+  {
+    "name": "Print-ready parts / 1",
+    "url": "assets/models/lfr-3d-printing-shit-1.zip",
+    "files": 5,
+    "bytes": 1761669,
+    "pending": 45
+  },
+  {
+    "name": "PCB design sources / 1",
+    "url": "assets/models/lfr-pcb-all-together-1.zip",
+    "files": 148,
+    "bytes": 5477454,
+    "pending": 2
+  },
+  {
+    "name": "PCB design sources / 2",
+    "url": "assets/models/lfr-pcb-all-together-2.zip",
+    "files": 85,
+    "bytes": 2197888,
+    "pending": 3
+  },
+  {
+    "name": "Line follower PCB render pack",
+    "url": "assets/models/line-follower-pcb-renders.zip",
+    "files": 21,
+    "bytes": 2281932,
+    "pending": 0
+  }
+]

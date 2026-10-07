@@ -55,3 +55,19 @@ profile recommendations were used.
 
 Confirm specific individual contributions before changing the team descriptions
 to first-person ownership claims. Update development status as projects progress.
+
+## Interactive browser edition
+
+Seven case studies now include the elevator PLC, CNC mechanical design and ENCE361 step counter. `structure-lab.html` runs a JavaScript port of the original Python direct-stiffness engine in a module worker. It supports axial trusses, Euler–Bernoulli / Timoshenko frames, end releases, rotated supports, nodal and member loads, drawing/editing, undo/redo, JSON sessions, force diagrams and worked matrix downloads. Internal units are SI; UI conversions are explicit. Deformation uses finite-element interpolation, and stress output is axial stress (bending and buckling checks are not included).
+
+`node tests/fea-engine.test.mjs` checks analytical mechanics, stability failures, constrained-load reactions and frozen results generated from the original Python `frame_toolkit.Structure`. The Pages workflow runs these checks alongside the static-site verifier.
+
+`design-library.html` uses a self-hosted Apache-licensed model-viewer (license included) to render actual GLB geometry. Models load on selection; rendered PCB views use optimized WebP previews and downloadable full PNGs. Camera presets, orbit/zoom, auto-rotation, studio background and view export are available. Download packs include actual available source CAD and renders. All original project workspaces remain untouched.
+
+The shared Group 13 OneDrive folder contains files that are cloud placeholders and could not be opened during this export. Affected native archives are marked partial, omit unavailable files and contain `FILES-AWAITING-ONEDRIVE-SYNC.txt`. `assets/models/source-inventory.json` records inclusion status. Supplied STL/3MF exports provide mechanical browser geometry; SolidWorks source parts/assemblies remain native downloads. 3MF placements are print layouts, not reconstructed robot assemblies. Component-library STEP references are identified separately from custom PCB designs.
+
+The elevator, CNC and step-counter web demos are labelled recreations/illustrations. They do not execute the physical controller firmware or claim measured hardware performance. Actual CNC and step-counter project photography is pending.
+
+Motion uses native CSS, SVG and canvas, pauses expensive loops offscreen and honours reduced-motion preferences. No analytics or account/login is required. Locally saved structural models remain in the visitor's browser.
+
+PCB GLB materials use the green default soldermask seen in the KiCad rendered previews. CAD geometry is retained; component materials are adjusted for readable browser lighting. Source STEP and KiCad exports remain available.

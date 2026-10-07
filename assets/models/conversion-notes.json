@@ -1,0 +1,730 @@
+[
+  {
+    "source": "PCB all together/PCB Submission Shit/Sensor_Array_328/Sensor_Array_328.kicad_pcb",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "PCB all together/PCB Shit/Sensor_Array/Sensor_Array.kicad_pcb",
+    "error": "line-follower-sensor-array-initial-glb"
+  },
+  {
+    "source": "3D Printing Shit/10 Tooth Motor Gear.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Chassis And Gears minus Sun enclosure and wheels.3mf",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Curved 7 blade.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/D47_H19.5_Base1.5_Straight6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/D47_H20.5_Straight6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/D47_H21.5_Straight6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan Clamp V18.2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan Clamp V18.3.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan Housing.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan Motor Clamp.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan V12.3.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan V12.4.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan no shroud mount.2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan no shroud mount.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan with FILLET.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan with shroud and exhaust.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_charlieV13.6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_curved_bladesV13.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#12_V13.3.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#6_V13.1.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#6_bigger_intakeV13.4.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#6_smaller_intakeV13.5.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#8_V13.2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Chassis.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Chassis2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Nub.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Rear PCB Mount.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Top Motor Mount.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Motor_mountV13.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Seb Fan V8.1.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Seb Print This Shit.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Seb_skirt.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Sebs_FanV3.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Straight 6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Sub - Planet Gear Housing 1.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Sub - Planet Gear Housing 2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Test Base.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Test Chassis.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Test Fan Clamp.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Test Fan.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Wheel_and_gear.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/ZAssembly - Sun and Jit.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/ZAssembly - Wheel With planetary.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/ZSub - 18 Tooth Planet Gear.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/gearjit.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/Fan with shroud and exhaust.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Casting Stuff.3mf",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit/Rear_PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit/Sensor_Array_V2.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit V2/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit V2/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit V2/Rear_PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit V2/Sensor_Array_V2.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit V3/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit V3/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit V3/Rear_PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/CAD Shit V3/Sensor_Array_V2.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V4 - Planetary/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V4 - Planetary/MR63ZZ.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V4 - Planetary/Main - Chassis.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V4 - Planetary/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V4 - Planetary/Rear_PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V4 - Planetary/Sensor_Array_V2.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V5 - Planetary Additions/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V5 - Planetary Additions/MR63ZZ.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Chassis.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V5 - Planetary Additions/Main - Planet Gear Assembly.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V5 - Planetary Additions/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V5 - Planetary Additions/Rear_PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad Shit V5 - Planetary Additions/Sensor_Array_V2.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V6 - Body alterations after first prototype/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V6 - Body alterations after first prototype/MR63ZZ.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - Planet Gear Assembly.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V6 - Body alterations after first prototype/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V6 - Body alterations after first prototype/Rear_PCB.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V6 - Body alterations after first prototype/Sensor_Array_4808.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V7 - More torque same wheel size/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V7 - More torque same wheel size/MR63ZZ.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Chassis.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V7 - More torque same wheel size/Main - Planet Gear Assembly.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V7 - More torque same wheel size/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V7 - More torque same wheel size/Rear_PCB.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V7 - More torque same wheel size/Sensor_Array_4808.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V8 - Skeletonising Gears/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V8 - Skeletonising Gears/MR63ZZ.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Chassis.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - Planet Gear Assembly.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V8 - Skeletonising Gears/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V8 - Skeletonising Gears/Rear_PCB.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V8 - Skeletonising Gears/Sensor_Array_4808.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V9 - Full Redesign/First stage part.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V9 - Full Redesign/Gear with locked fillet.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V9 - Full Redesign/Main - Wheel With Gear.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V9 - Full Redesign/Rear_PCB.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit V9 - Full Redesign/Sensor_Array_4808.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/MR63ZZ.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Chassis.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - Planet Gear Assembly.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Rear_PCB.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Cad shit Vx - Alex's Version of Charlies fan/Sensor_Array_4808.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/Chasis - Fan.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/Chassis_redeisgn for fanV3.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/Assem1.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/Assem2.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/Assem3.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/Curved 7 blade-ENMT2010.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/Curved 7 blade_D47mm.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/D47_H20.5_Straight6.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/D47_H21.5_Straight6.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/Fan with shroud and exhaust.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/Floor.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/Fan Shit/New Fan Jit/Test Base-ENMT2010.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/casting/Main - Wheel With Gear.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/casting/Mould.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/casting/Sub - Wheel.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Cad all together/casting/assembly.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Testing Planetary shit/Line Following Robot.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Testing Planetary shit/Main - SENSOR PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Testing Planetary shit/Rear_PCB.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Testing Planetary shit/Sensor_Array_V2.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Auto Pot Tuner/MG996R Servo Motor/Case.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Auto Pot Tuner/MG996R Servo Motor/MG996R Servo Motor.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Auto Pot Tuner/MG996R Servo Motor/MG996R Servo Motor.x_t",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Auto Pot Tuner/MG996R Servo Motor/Pan Head Cross Screw M1.6.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Auto Pot Tuner/PWM_Driver.SLDPRT",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "Auto Pot Tuner/Pot_Tuner_Assemb.SLDASM",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/10 Tooth Motor Gear.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Chassis And Gears minus Sun enclosure and wheels.3mf",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Curved 7 blade.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/D47_H19.5_Base1.5_Straight6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/D47_H20.5_Straight6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/D47_H21.5_Straight6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan Clamp V18.2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan Clamp V18.3.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan Housing.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan Motor Clamp.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan V12.3.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan V12.4.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan no shroud mount.2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan no shroud mount.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan with FILLET.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan with shroud and exhaust.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_charlieV13.6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_curved_bladesV13.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#12_V13.3.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#6_V13.1.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#6_bigger_intakeV13.4.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#6_smaller_intakeV13.5.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Fan_straight_#8_V13.2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Chassis.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Chassis2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Nub.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Rear PCB Mount.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Main - Top Motor Mount.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Motor_mountV13.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Seb Fan V8.1.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Seb Print This Shit.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Seb_skirt.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Sebs_FanV3.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Straight 6.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Sub - Planet Gear Housing 1.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Sub - Planet Gear Housing 2.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Test Base.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Test Chassis.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Test Fan Clamp.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Test Fan.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/Wheel_and_gear.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/ZAssembly - Sun and Jit.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/ZAssembly - Wheel With planetary.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/ZSub - 18 Tooth Planet Gear.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "3D Printing Shit/gearjit.STL",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "PCB all together/PCB Shit/Sensor_Array_V2/ATMEGA4808-AFR--3DModel-STEP-269445.STEP",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "PCB all together/PCB Shit/Sensor_Array_V2/ATMEGA4808_AFR/TQFP32_PT_MCH.stl",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "PCB all together/PCB Submission Shit/Sensor_Array_328/Sensor_Array_328-ENMT2309.kicad_sch",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "PCB all together/PCB Submission Shit/Sensor_Array_328/Sensor_Array_328.kicad_pcb",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "source": "PCB all together/PCB Submission Shit/Sensor_Array_4808/ATMEGA4808_AFR/TQFP32_PT_MCH.stl",
+    "error": "[Errno 60] Operation timed out"
+  }
+]
