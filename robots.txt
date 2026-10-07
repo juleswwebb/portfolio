@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juleswwebb.github.io/portfolio/sitemap.xml
